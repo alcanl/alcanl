@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alcanl
-- 👀 This is the first year of my education on computer engineering, so wait for me in 2025,   
+- 👋 Hi, I’m @alcanl   
 - 👀 I’m interested in computer science, specially the mobile developments. 
-- 🌱 I’m currently learning about algorithms and programming on Java,
 - 💞️ I’m looking to collaborate on mobile dev projects based on Java or Kotlin
 - 📫 You can reach me with my e-mail adress; alican.kecici@gmail.com
 
